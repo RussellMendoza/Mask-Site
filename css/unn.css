@@ -187,13 +187,13 @@ li.dropdown {
   padding: 10px;
 }
 img {
-    opacity: 1;
+    opacity: 0.8;
     transition: opacity 1s ease-in-out;
     -moz-transition: opacity 1s ease-in-out;
     -webkit-transition: opacity 1s ease-in-out;
 }
 img:hover {
-    opacity: 0.6;
+    opacity: 1;
     transition: opacity .55s ease-in-out;
     -moz-transition: opacity .55s ease-in-out;
     -webkit-transition: opacity .55s ease-in-out;
