@@ -1381,7 +1381,8 @@ a {
   a:hover, a:focus {
     color: #1468a0; }
   a img {
-    border: 0; }
+    border: 0;
+    padding: 2}
 
 hr {
   clear: both;
